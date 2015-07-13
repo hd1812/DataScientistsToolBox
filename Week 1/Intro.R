@@ -28,4 +28,3 @@ head(x)
 
 ##Building Data Product Overview
 ##R packages, r Charts, Slidify, Shiny
-##
