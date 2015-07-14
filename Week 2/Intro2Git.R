@@ -1,7 +1,7 @@
 ####Week 2 intro to git
 
-##git config -global user.name "name"
-##git config -global user.email"XX@example.com"
+##git config --global user.name "name"
+##git config --global user.email"XX@example.com"
 ##git config --list      (configure changes)
 ##exit
 
@@ -25,4 +25,4 @@
 ##git branch            --see what branch you are on
 ##git checkout master   --switch back to the master branch type
 
-##to merge work to other's work, send a pull request
+##git pull -- update local working rpo
